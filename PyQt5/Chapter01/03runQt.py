@@ -1,0 +1,17 @@
+import sys
+
+from PyQt5.QtWidgets import QApplication, QWidget
+
+app = QApplication(sys.argv)
+
+window = QWidget()
+
+window.resize(500,500)
+
+window.move(300,300)
+
+window.setWindowTitle("Hello pyqt")
+
+window.show()
+
+sys.exit(app.exec_())
