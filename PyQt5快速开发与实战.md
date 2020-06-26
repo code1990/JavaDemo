@@ -22,6 +22,8 @@ Eric6与PyQt5的结合，非常方便实现界面与业务逻辑的分离，以�
 
 ==jedi是一个超级棒的Python自动补全库==
 
+D:\WinPyQt5.9-32bit-3.5.3.1\python-3.5.3\Scripts\eric6.bat
+
 -------------------
 
 第2章 Python基本语法
