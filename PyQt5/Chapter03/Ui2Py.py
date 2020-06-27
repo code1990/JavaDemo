@@ -1,4 +1,5 @@
 # ui转换成py的转换工具
+#  将ui文件转换为.py 文件
 import os
 import os.path
 

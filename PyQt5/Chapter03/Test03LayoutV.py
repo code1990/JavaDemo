@@ -6,7 +6,20 @@
 #
 # WARNING! All changes made in this file will be lost!
 
+#     Qt Designer提供了4种窗口布局方式，分别是：
+# 	Vertical Layout (垂直布局)、
+#     Horizontal Layout(水平布局)、
+# 	Grid Layout(橱格布局)和
+# 	Form Layout (表单布局).
 
+# 垂直布局:控件默认按照从上到下的顺序进行纵向添加.
+#     水平布局：控件默认按照从左到右的顺序进行横向添加。
+#     栅格布局：将窗口控件放入一个网格之中，然后将它们合理地划分成若干行
+#     (row)和列 (column)，并把其中的每个窗口控件放置在合适的单元(cell)
+#     中，这里的单元即是指由行和列交又所划分出来的空间。
+#
+# 	表单布局:控件以两列的形式布局在表单中，其中左列包含标签，右列包含    输入控件。
+#     一般进行布局有两种方式：一是通过布局管理器进行布局：二是通过容器控    件进行布局
 from PyQt5 import QtCore, QtGui, QtWidgets
 
 
